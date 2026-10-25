@@ -6,7 +6,7 @@ People visit. Nobody books, buys or gets in touch. Landing Page Master walks you
 
 It checks the headline, the copy, the graphic design, the layout, the phone experience, the prices and offer, the proof, the answers buyers need and every button. It keeps what already works. No page yet? Give it your business facts and it builds one.
 
-**Full beginner guide:** [Landing Page Master setup guide](GUIDE_URL)
+**Full beginner guide:** [Landing Page Master setup guide](https://promptible.notion.site/PAGE-Landing-Page-Master-setup-guide-4046a397f23b81ec987dd1fabc404562)
 
 ## Install in the Claude app (easiest)
 
